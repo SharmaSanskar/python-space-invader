@@ -1,3 +1,3 @@
-# Space Invader
+# Space Invaders
 
-### The classic Space Invader game made using _Python_ and _Pygame_ module.
+### The classic Space Invaders game made using _Python_ and _Pygame_ module.
